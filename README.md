@@ -16,3 +16,5 @@ Métodos da Classe Fila:
 StackUp(obj): Passa um objeto obj como argumento.
 
 Unstack(); Retorna o primeiro objeto que entrou na fila.
+
+print(); Imprime os objetos da Fila.

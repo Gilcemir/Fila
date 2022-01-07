@@ -82,7 +82,7 @@ public class Fila
             Console.WriteLine(toPrint);
         }else
         {
-            throw new ArgumentException("Empty Stack!");
+            Console.WriteLine("Empty Queue/Fila vazia");
         }
     }
     public class Nodo
