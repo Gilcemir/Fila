@@ -12,6 +12,7 @@ namespace MyProgram
 
             Fila minhaFila = new Fila();
 
+           // minhaFila.print();
             minhaFila.StackUp(1);
             minhaFila.StackUp(2);
             minhaFila.StackUp(3);
@@ -19,7 +20,8 @@ namespace MyProgram
             minhaFila.StackUp(3);
             minhaFila.StackUp(3);
             minhaFila.StackUp(3);
-
+            minhaFila.print();
+            /*
             Console.WriteLine(minhaFila.Unstack());
             Console.WriteLine(minhaFila.Unstack());
             Console.WriteLine(minhaFila.Unstack());
@@ -28,6 +30,7 @@ namespace MyProgram
             Console.WriteLine(minhaFila.Unstack());
             Console.WriteLine(minhaFila.Unstack());
             Console.WriteLine(minhaFila.Unstack());
+            */
         }
     }
 }

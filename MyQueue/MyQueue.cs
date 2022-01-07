@@ -59,6 +59,32 @@ public class Fila
         }
     }
 
+
+    public void print()
+    {
+        
+        if (this.cur != null)
+        {
+            string toPrint = "";
+            if(this.cur.next == null)
+            {
+                toPrint += this.cur.obj;
+            }else{
+                Nodo current = this.cur.next;
+                while(current != this.cur)
+                {
+                    toPrint += current.obj +" -> ";
+                    current = current.next;
+                }
+                toPrint+= this.cur.obj;
+            }
+
+            Console.WriteLine(toPrint);
+        }else
+        {
+            throw new ArgumentException("Empty Stack!");
+        }
+    }
     public class Nodo
     {
         public Nodo next { get; set; }
