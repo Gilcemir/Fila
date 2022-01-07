@@ -1,0 +1,15 @@
+C:\workspace\Fila\obj\Debug\net6.0\Fila.csproj.AssemblyReference.cache
+C:\workspace\Fila\obj\Debug\net6.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Fila\obj\Debug\net6.0\Fila.AssemblyInfoInputs.cache
+C:\workspace\Fila\obj\Debug\net6.0\Fila.AssemblyInfo.cs
+C:\workspace\Fila\obj\Debug\net6.0\Fila.csproj.CoreCompileInputs.cache
+C:\workspace\Fila\bin\Debug\net6.0\Fila.exe
+C:\workspace\Fila\bin\Debug\net6.0\Fila.deps.json
+C:\workspace\Fila\bin\Debug\net6.0\Fila.runtimeconfig.json
+C:\workspace\Fila\bin\Debug\net6.0\Fila.dll
+C:\workspace\Fila\bin\Debug\net6.0\ref\Fila.dll
+C:\workspace\Fila\bin\Debug\net6.0\Fila.pdb
+C:\workspace\Fila\obj\Debug\net6.0\Fila.dll
+C:\workspace\Fila\obj\Debug\net6.0\ref\Fila.dll
+C:\workspace\Fila\obj\Debug\net6.0\Fila.pdb
+C:\workspace\Fila\obj\Debug\net6.0\Fila.genruntimeconfig.cache
